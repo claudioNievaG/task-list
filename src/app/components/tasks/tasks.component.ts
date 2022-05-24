@@ -36,4 +36,12 @@ constructor(
       console.log(this.tasks);
   }
 
+  addTask(task: Task){
+    console.log(task);
+    this.taskService.addTask(task).subscribe(task => {
+        this.tasks.push(task);
+    })
+
+  }
+
 }
