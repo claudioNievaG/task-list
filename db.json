@@ -4,13 +4,25 @@
       "id": 1,
       "text": "Terminar modulo angular",
       "day": "Abril 6 2022",
-      "reminder": false
+      "reminder": true
     },
     {
-      "id": 3,
-      "text": "Estar mejor que ayer",
-      "day": "Abril 6 2022",
-      "reminder": true
+      "text": "Terminar el ppt",
+      "day": "hoy",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Hacerlo Cuniado al Ale",
+      "day": "Indeterminado",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Terminar Curso de .Net",
+      "day": "Indeterminado",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
